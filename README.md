@@ -1,5 +1,7 @@
 # cap
-script for searching PATH or parameters for any executables caps applied to them.
+# Linux Privilege Escalation using Capabilities
+
+script for searching PATH or parameters for any executables Capabilities applied to them.
 This may lead to privelage esclastion
 for more -> https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 
