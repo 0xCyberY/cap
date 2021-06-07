@@ -2,8 +2,9 @@
 # Linux Privilege Escalation using Capabilities
 
 script for searching PATH or parameters for any executables Capabilities applied to them.
-This may lead to privelage esclastion
-for more -> https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
+This may lead to privelage esclastion.
+
+for more read -> https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 
 #Example
 ```
